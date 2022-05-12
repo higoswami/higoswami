@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A linux enthusiast</h3>
 
-- 📝 I regularly write articles on [www.himanshugoswami.netlify.app](www.himanshugoswami.netlify.app)
+- 📝 I regularly write articles on [himanshugoswami.netlify.app](https://himanshugoswami.netlify.app/)
 
 - 💬 Ask me about **Linux,Obsidian,Suckless Utilities: dwm,st,..**
 
