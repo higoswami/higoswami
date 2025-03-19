@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A linux enthusiast</h3>
 
-- 📝 I regularly write articles on [himanshugoswami.netlify.app](https://himanshugoswami.netlify.app/)
+- 🔭 I’m currently working as Embedded Software Engineer (C/C++)
 
-- 💬 Ask me about **Linux,Obsidian,Suckless Utilities: dwm,st,..**
+- 📝 During college, i wrote some articles on [himanshugoswami.netlify.app](https://himanshugoswami.netlify.app/)  
+
+- 💬 Ask me about : **Linux, Neovim, Terminal-Multiplexors(e.g. zellij), cli-tools**
+- Tools i'm not using nowadays : **Suckless Utilities: dwm,st**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
